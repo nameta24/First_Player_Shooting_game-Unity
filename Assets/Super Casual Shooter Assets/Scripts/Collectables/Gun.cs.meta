@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 837ee47b4480a9a47aacfa1407ca4197
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AK47: {fileID: 2395043250628117054, guid: 01c866b2e73f0f741a49d513dad4bffc, type: 3}
+  - bullet_display: {instanceID: 0}
+  - shoot_start_position: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
